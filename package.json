@@ -1,0 +1,24 @@
+{
+  "name": "adventofcode2019",
+  "version": "1.0.0",
+  "description": "See https://adventofcode.com/2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha lib/**/*.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josef37/adventofcode2019.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josef37/adventofcode2019/issues"
+  },
+  "homepage": "https://github.com/Josef37/adventofcode2019#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
